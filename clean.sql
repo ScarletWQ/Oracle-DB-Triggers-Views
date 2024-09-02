@@ -1,0 +1,1 @@
+drop tablespace assignment2 including contents and datafiles;
